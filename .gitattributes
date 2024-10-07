@@ -1,0 +1,1 @@
+Autonomous_Car/nb_images/*.mp4 filter=lfs diff=lfs merge=lfs -text
